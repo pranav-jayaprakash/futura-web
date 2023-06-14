@@ -1,0 +1,69 @@
+.lastmar {
+    margin-right: 50px;
+}
+
+.btnmar {
+    margin-right: 200px;
+}
+
+.immar {
+    margin: 10px;
+}
+
+.btn-grad {
+    background-image: linear-gradient(to right, #FF512F 0%, #F09819  51%, #FF512F  100%);
+    
+    padding: 15px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+    border: none;
+    font-weight: bold;
+    font-size: 12px;
+    
+  }
+
+  .btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+
+.d-flex {
+    
+    margin-right: 20%;
+}
+
+.bluediv {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+    color: #eee;
+    text-align: center;
+    height: 300px;
+    padding: 90px 30px 10px 20px;
+}
+
+h5, h4{
+    color:#F09819;
+}
+
+.litediv {
+    background-color: aquamarine;
+    color: #eee;
+    text-align: center;
+    height: 400px;
+    padding: 90px 30px 10px 20px;
+    align-items: center;
+}
+
+.contmap {
+    position: relative;
+    align-items: center;
+
+}
