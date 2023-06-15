@@ -60,6 +60,8 @@ h5, h4{
     height: 400px;
     padding: 90px 30px 10px 20px;
     align-items: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .contmap {
